@@ -1,6 +1,8 @@
 [submodule "submodules/frontend"]
 	path = submodules/frontend
 	url = https://github.com/EnivNaqSevraqf/sahara_frontend
+	branch = boilerplate_for_main_stuff
 [submodule "submodules/backend"]
 	path = submodules/backend
 	url = https://github.com/EnivNaqSevraqf/sahara_backend
+	branch = final_backend
