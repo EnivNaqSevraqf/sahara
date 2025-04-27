@@ -6,3 +6,6 @@
 	path = submodules/backend
 	url = https://github.com/EnivNaqSevraqf/sahara_backend
 	branch = final_backend
+[submodule "Documents"]
+	path = Documents
+	url = https://github.com/EnivNaqSevraqf/Documents
